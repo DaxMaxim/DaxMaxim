@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: **Spring Boot microservices & scalable backend systems**
 - 🌱 Learning: **Kubernetes, system design, distributed systems**
-- 💼 Experienced in: Java, Spring Boot, Python, Docker, MySQL, Redis, AWS
+- 💼 Experienced in: Java, Spring Boot, Python, Docker, MySQL, Redis, AWS, ML
 - 📫 Reach me: [mohit.98@hotmail.com] | [LinkedIn](https://www.linkedin.com/in/mohit-chaturvedi-0717a717b/)
 
 ---
