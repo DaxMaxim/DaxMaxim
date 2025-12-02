@@ -19,7 +19,7 @@ JSON, REST, API Gateway, Azure, SonarQube
 ---
 
 ## 📈 GitHub Stats
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitchaturvedi&show_icons=true&theme=default)
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaxMaxim&show_icons=true&theme=default)
 
 ---
 
