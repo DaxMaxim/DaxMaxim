@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohit!
 
-<!--
-**DaxMaxim/DaxMaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Developer | Backend Engineer | Cloud & Microservices Enthusiast
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: **Spring Boot microservices & scalable backend systems**
+- 🌱 Learning: **Kubernetes, system design, distributed systems**
+- 💼 Experienced in: Java, Spring Boot, Python, Docker, MySQL, Redis, AWS
+- 📫 Reach me: [mohit.98@hotmail.com] | [LinkedIn](https://www.linkedin.com/in/mohit-chaturvedi-0717a717b/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+**Programming Languages**: Java, Python, C/C++, JavaScript, SQL
+**Frameworks**: Spring Boot, Django, PyTorch, TensorFlow.js, NumPy, Pandas, Hibernate
+**Databases**: MySQL, PostgreSQL, SQL Server, MongoDB
+**Cloud & DevOps**: AWS (EC2, S3, RDS, DynamoDB, IAM, CloudWatch), Docker, GCP, Jenkins, Postman, Kafka, Git, GitHub, Linux, SSMS,
+JSON, REST, API Gateway, Azure, SonarQube
+
+---
+
+## 📈 GitHub Stats
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitchaturvedi&show_icons=true&theme=default)
+
+---
+
+## 🔗 Featured Projects
+- [Unisocial](https://github.com/DaxMaxim/unisocial) — Social Media and Marketplace app for University students ( Users can post even trivial jobs such as taking care of pet or cooking food)
+- [mljs](https://github.com/DaxMaxim/mljs-mobile) — An in-browser ML library implementing KNN, Linear Regression and Logistic Regression, with modular components for CSV ingestion,
+preprocessing and model evaluation that make extending the system with new algorithms seamless.  
+- [blinkshortener](https://github.com/DaxMaxim/BlinkShortener) — Url shortener app in Django utilizing base62 encoding to generate billions of short Urls
+
+---
+
+## 🤝 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/mohit-chaturvedi-0717a717b/) • [Portfolio](#) • [Email](mohit.98@hotmail.com)
