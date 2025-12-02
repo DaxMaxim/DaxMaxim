@@ -32,4 +32,4 @@ preprocessing and model evaluation that make extending the system with new algor
 ---
 
 ## 🤝 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/mohit-chaturvedi-0717a717b/) • [Portfolio](#) • [Email](mohit.98@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohit-chaturvedi-0717a717b/) • [Portfolio](#)
