@@ -18,11 +18,6 @@ JSON, REST, API Gateway, Azure, SonarQube
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://stats-eta-teal.vercel.app/api?username=DaxMaxim&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Featured Projects
 - [Unisocial](https://github.com/DaxMaxim/unisocial) — Social Media and Marketplace app for University students ( Users can post even trivial jobs such as taking care of pet or cooking food)
 - [mljs](https://github.com/DaxMaxim/mljs-mobile) — An in-browser ML library implementing KNN, Linear Regression and Logistic Regression, with modular components for CSV ingestion,
