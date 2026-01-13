@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohit!
 
-### 🚀 Software Developer | Backend Engineer | Cloud, AI/ML & Microservices Enthusiast
+### 🚀 Software Developer | Backend Engineer | AI Systems & Cloud Microservices
 
 - 🔭 Currently building AI security tooling & scalable backend systems
 - 🌱 Learning: System design, distributed systems, Kubernetes
