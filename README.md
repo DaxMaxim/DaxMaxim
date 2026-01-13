@@ -2,10 +2,10 @@
 
 ### 🚀 Software Developer | Backend Engineer | Cloud & Microservices Enthusiast
 
-🔭 Currently building AI security tooling & scalable backend systems
-🌱 Learning: System design, distributed systems, Kubernetes
-💼 Experienced in: Java, Spring Boot, Python, FastAPI, Docker, AWS, Redis, LLM APIs
-🛡️ Projects: Prompt Vulnerability Scanner (LLM red-team simulator)
+- 🔭 Currently building AI security tooling & scalable backend systems
+- 🌱 Learning: System design, distributed systems, Kubernetes
+- 💼 Experienced in: Java, Spring Boot, Python, FastAPI, Docker, AWS, Redis, LLM APIs
+- 🛡️ Projects: Prompt Vulnerability Scanner (LLM red-team simulator)
 - 📫 Reach me: [mohit.98@hotmail.com] | [LinkedIn](https://www.linkedin.com/in/mohit-chaturvedi-0717a717b/)
 
 ---
