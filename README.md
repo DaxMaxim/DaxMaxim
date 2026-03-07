@@ -22,7 +22,7 @@ JSON, REST, API Gateway, Azure, SonarQube
 ## 🔗 Featured Projects
 
 - [prompt-vulnerability-scanner](https://github.com/DaxMaxim/prompt-vulnerability-scanner) — Red-team style security tool that automatically tests LLM system prompts against jailbreaks, prompt injections, and data exfiltration attacks.
-- [Unisocial](https://github.com/DaxMaxim/unisocial) — Social Media and Marketplace app for University students ( Users can post even trivial jobs such as taking care of pet or cooking food)
+- [regert-guard](https://github.com/DaxMaxim/regret-guard) — Chrome extension that helps professionals avoid high stakes communication errors and prevents actions that you might regret later.
 - [mljs](https://github.com/DaxMaxim/mljs-mobile) — An in-browser ML library implementing KNN, Linear Regression and Logistic Regression, with modular components for CSV ingestion,
 preprocessing and model evaluation that make extending the system with new algorithms seamless.  
 - [blinkshortener](https://github.com/DaxMaxim/BlinkShortener) — Url shortener app in Django utilizing base62 encoding to generate billions of short Urls
