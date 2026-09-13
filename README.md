@@ -11,15 +11,17 @@
 ---
 
 ## 🛠 Tech Stack
-** Programming Languages **: Java, Python, C/C++,JavaScript,SQL
-** Backend & Distributed Systems** : Spring Boot, FastAPI, REST APIs, gRPC, Microservices, Kafka, Event-Driven Architecture,
-Distributed Caching, Multithreading,Resilience4j, Hibernate
-**AI&LLM **:LangGraph,Langfuse,RAG,pgvector,MCP,OpenAIAPI,PyTorch,LLMEvaluation,LLM-as-a-Judge,PromptEngineering,
-Prompt Tuning & Optimization,ToolCalling,AIObservability
-**Cloud&DevOps**: AWS(ECS/Fargate,ECR,EC2,S3,RDS,DynamoDB,IAM,CloudWatch,APIGateway,EKS),AWSCDK/IaC,
-Docker, Kubernetes, GCP, Azure,GitHubActions, Jenkins,Git, Linux
-**Databases &Data**: PostgreSQL, MySQL, SQL Server, MongoDB,SSIS, NumPy,Pandas
-Tools & Tech: SSMS, JUnit, Mockito, Django, SonarQube, GitHub, Auth0, Playwright, Postman, Claude Code, OpenAI Codex, Cursor
+Programming Languages: Java, Python, C/C++, JavaScript, SQL
+
+Backend & Distributed Systems: Spring Boot, FastAPI, REST APIs, gRPC, Microservices, Kafka, Event-Driven Architecture, Distributed Caching, Multithreading, Resilience4j, Hibernate
+
+AI & LLM: LangGraph, Langfuse, RAG, pgvector, MCP, OpenAI API, PyTorch, LLM Evaluation, LLM-as-a-Judge, Prompt Engineering, Prompt Tuning & Optimization, Tool Calling, AI Observability
+
+Cloud & DevOps: AWS (ECS/Fargate, ECR, EC2, S3, RDS, DynamoDB, IAM, CloudWatch, API Gateway, EKS), AWS CDK / IaC, Docker, Kubernetes, GCP, Azure, GitHub Actions, Jenkins, Git, Linux
+
+Databases & Data: PostgreSQL, MySQL, SQL Server, MongoDB, SSIS, NumPy, Pandas
+
+Tools & Technologies: SSMS, JUnit, Mockito, Django, SonarQube, GitHub, Auth0, Playwright, Postman, Claude Code, OpenAI Codex, Cursor
 ---
 
 ## 🔗 Featured Projects
