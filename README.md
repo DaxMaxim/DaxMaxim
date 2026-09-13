@@ -11,12 +11,15 @@
 ---
 
 ## 🛠 Tech Stack
-**Programming Languages**: Java, Python, C/C++, JavaScript, SQL
-**Frameworks**: Spring Boot, Django, PyTorch, TensorFlow.js, NumPy, Pandas, Hibernate
-**Databases**: MySQL, PostgreSQL, SQL Server, MongoDB
-**Cloud & DevOps**: AWS (EC2, S3, RDS, DynamoDB, IAM, CloudWatch), Docker, GCP, Jenkins, Postman, Kafka, Git, GitHub, Linux, SSMS,
-JSON, REST, API Gateway, Azure, SonarQube
-
+** Programming Languages **: Java, Python, C/C++,JavaScript,SQL
+** Backend & Distributed Systems** : Spring Boot, FastAPI, REST APIs, gRPC, Microservices, Kafka, Event-Driven Architecture,
+Distributed Caching, Multithreading,Resilience4j, Hibernate
+**AI&LLM **:LangGraph,Langfuse,RAG,pgvector,MCP,OpenAIAPI,PyTorch,LLMEvaluation,LLM-as-a-Judge,PromptEngineering,
+Prompt Tuning & Optimization,ToolCalling,AIObservability
+**Cloud&DevOps**: AWS(ECS/Fargate,ECR,EC2,S3,RDS,DynamoDB,IAM,CloudWatch,APIGateway,EKS),AWSCDK/IaC,
+Docker, Kubernetes, GCP, Azure,GitHubActions, Jenkins,Git, Linux
+**Databases &Data**: PostgreSQL, MySQL, SQL Server, MongoDB,SSIS, NumPy,Pandas
+Tools & Tech: SSMS, JUnit, Mockito, Django, SonarQube, GitHub, Auth0, Playwright, Postman, Claude Code, OpenAI Codex, Cursor
 ---
 
 ## 🔗 Featured Projects
